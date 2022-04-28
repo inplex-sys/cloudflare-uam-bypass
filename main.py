@@ -33,7 +33,7 @@ import threading
 from colored import stylize
 from urllib.parse import urlparse
 from datetime import datetime
-import undetected_chromedriver.v2 as webdriver
+import undetected_chromedriver as webdriver
 import sys
 import ssl
 
