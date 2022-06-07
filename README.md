@@ -1,6 +1,6 @@
 # Dark Utilities - Cloudflare Uam Bypass
 
-Our Website [https://dark-utilities.xyz/](https://dark-utilities.xyz/) !
+Our Website [https://dark-utilities.pw/](https://dark-utilities.pw/) !
 
 ### Additional Informations
  - The proxies type are `http,https` ...
