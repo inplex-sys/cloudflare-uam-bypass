@@ -1,7 +1,5 @@
 # Dark Utilities - Cloudflare Uam Bypass
 
-Our Website [https://dark-utilities.me/](https://dark-utilities.me/) !
-
 ### Additional Informations
  - The proxies type are `http,https` ...
  - You need fast proxies without this, the script will be **unstable**
