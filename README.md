@@ -1,4 +1,4 @@
-# Dark Utilities - Cloudflare Uam Bypass
+# Cloudflare Uam Bypass
 
 ### Additional Informations
  - The proxies type are `http,https` ...
@@ -12,3 +12,6 @@ user@domain:~# cd ./cloudflare-uam-bypass/
 user@domain:~# pip3 install Pysocks colored undetected_chromedriver
 user@domain:~# python3 ./main.py <target> <threads> <proxies-file>
 ```
+
+### Disclamer
+This repository is for academic purposes, the use of this software is your responsibility.
