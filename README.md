@@ -1,4 +1,6 @@
-<span style="color:red">some **This is Red Bold.** text</span>
+```diff
+- This bypass is outdated, i'm working on an other one who bypass everything and it will be free :)
+```
 
 # Cloudflare Uam Bypass
 
