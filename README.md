@@ -1,8 +1,5 @@
-```diff
-- This bypass is outdated, i'm working on an other one who bypass everything and it will be free :)
-```
-
 # Cloudflare Uam Bypass
+> ⚠️ **This cloudflare bypass is no longer stable and no longer updated**
 
 ### Additional Informations
  - The proxies type are `http,https` ...
